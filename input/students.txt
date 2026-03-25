@@ -5,3 +5,4 @@ Nurs,77
 Shera,99
 Ilhan,55
 Temirlan,22
+Danya,99

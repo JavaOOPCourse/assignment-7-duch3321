@@ -66,6 +66,8 @@ public class StudentRecordProcessor {
                 }
             }
 
+            Collections.sort(students);
+
             averageScore=total/ students.size();
             highestStudent=maxStudent;
 

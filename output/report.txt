@@ -1,12 +1,13 @@
 /// Student Report ///
-Average Score : 73.14285714285714
+Average Score : 76.375
 Highest Student : Shera | Score : 99.0
 
 Sorted Students :
-Emir | Score : 90.0
-Erbol | Score : 80.0
-Belek | Score : 89.0
-Nurs | Score : 77.0
+Danya | Score : 99.0
 Shera | Score : 99.0
+Emir | Score : 90.0
+Belek | Score : 89.0
+Erbol | Score : 80.0
+Nurs | Score : 77.0
 Ilhan | Score : 55.0
 Temirlan | Score : 22.0
