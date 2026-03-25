@@ -1,0 +1,6 @@
+/// Student Report ///
+Average Score : 73.14285714285714
+Highest Student : Name : Shera | Score : 99.0
+
+Sorted Students :
+Name : Emir | Score : 90.0Name : Erbol | Score : 80.0Name : Belek | Score : 89.0Name : Nurs | Score : 77.0Name : Shera | Score : 99.0Name : Ilhan | Score : 55.0Name : Temirlan | Score : 22.0
